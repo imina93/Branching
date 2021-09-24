@@ -14,3 +14,6 @@
 ### Branching commands
 * 'git branch' - list local branches, show which branch we are on
 * 'git branch -M branchname' - rename current to branchname
+
+*;'git branch newBranch' - create local branch 'newBranch'
+* 'git chechout branchName' - got to branch 'branchName'
