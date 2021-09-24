@@ -18,3 +18,8 @@
 
 *;'git branch newBranch' - create local branch 'newBranch'
 * 'git chechout branchName' - got to branch 'branchName'
+
+### Remote commands
+* 'git remod add origin SomeRemoteRepoUrl' - link local repo with remote 'SomeRemoteRepoUrl'
+* ' git push origin main' - push local commits to remote branch Informational
+* ' git push origin branchName' - push to remote branch 'branchName'
